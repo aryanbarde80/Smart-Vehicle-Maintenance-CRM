@@ -1,4 +1,4 @@
-The Smart Vehicle Service & Maintenance CRM is a Salesforce-based CRM solution designed to optimize vehicle servicing operations. It connects Customers, Technicians, and Service Managers into one system to streamline service request handling, workload management, parts tracking, invoicing, and customer communication.
+The Smart Vehicle Service & Maintenance CRM is a Salesforce-based CRM solution designed to optimize vehicle servicing operations. It connects Customers, Technicians, and Service Managers into one system to streamline service request handling, workload management, parts tracking, invoicing, and customer communication.                        
 
 This project demonstrates the use of Custom Objects, Page Layouts, Profiles, Sharing Rules, Lightning Web Components (LWC), and Automation in Salesforce.
 Use Cases
